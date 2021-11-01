@@ -7,7 +7,5 @@ $data = "INSERT INTO cred (FNAME, LNAME, EMAIL, PASSWD) VALUES ('$first_name', '
 
 mysqli_query ($connection, $data);
 header('location:login.php');
-
 }
-
 ?>

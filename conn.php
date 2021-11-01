@@ -7,5 +7,4 @@ if ($connection) {
 else {
     echo "ERROR Connection Failed!";
 }
-
 ?>
